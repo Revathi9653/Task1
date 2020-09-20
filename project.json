@@ -1,0 +1,49 @@
+{
+  "name": "Task1",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "BalaReva.DataTable.Activities": "[2.0.2]",
+    "BalaReva.Excel.Activities": "[2020.2.0]",
+    "BalaReva.PDF.Activities": "[2019.3.0]",
+    "CloudRail.Google.Drive.Api": "[1.0.6]",
+    "EpsilonAI.PDFReader.Activities": "[1.0.0]",
+    "Esoptra.GoogleDrive": "[1.0.3]",
+    "FestSystems.PDFtoExcel.Activities": "[1.0.1]",
+    "Google.Apis.Drive.v3": "[1.49.0.2072]",
+    "UiPath.Excel.Activities": "[2.9.0-preview]",
+    "UiPath.GSuite.Activities": "[1.6.0]",
+    "UiPath.Mail.Activities": "[1.9.0-preview]",
+    "UiPath.OmniPage.Activities": "[1.6.1-preview]",
+    "UiPath.PDF.Activities": "[3.2.2]",
+    "UiPath.System.Activities": "[20.6.1-preview]",
+    "UiPath.UIAutomation.Activities": "[20.6.0-preview]",
+    "UiPath.Word.Activities": "[1.5.3-beta.1159735]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.6.0.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfoCollection": []
+  },
+  "expressionLanguage": "VisualBasic"
+}
